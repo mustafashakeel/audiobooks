@@ -1,0 +1,15 @@
+[playlist]
+File1=1A.mp3
+Title1=1A
+Length1=2683
+File2=1B.mp3
+Title2=1B
+Length2=2672
+File3=2A.mp3
+Title3=2A
+Length3=2724
+File4=2B.mp3
+Title4=2B
+Length4=2680
+NumberOfEntries=4
+Version=2
